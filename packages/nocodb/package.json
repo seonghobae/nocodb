@@ -164,7 +164,7 @@
     "slug": "^8.2.3",
     "socket.io": "^4.4.1",
     "sql-query-identifier": "^2.5.0",
-    "sqlite3": "^5.1.6",
+    "sqlite3": "^5.1.7",
     "tedious": "^16.6.1",
     "tinycolor2": "^1.4.2",
     "twilio": "^3.55.1",
