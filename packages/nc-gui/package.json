@@ -91,7 +91,7 @@
     "vue3-text-clamp": "^0.1.2",
     "vuedraggable": "^4.1.0",
     "xlsx": "^0.18.5",
-    "@tiptap/extension-link": "2.0.4",
+    "@tiptap/extension-link": "2.10.4",
     "@tiptap/extension-task-list": "2.0.4",
     "@tiptap/extension-underline": "^2.1.13",
     "@tiptap/html": "2.0.4",
