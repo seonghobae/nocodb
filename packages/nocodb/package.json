@@ -169,7 +169,7 @@
     "tinycolor2": "^1.4.2",
     "twilio": "^3.55.1",
     "unique-names-generator": "^4.7.1",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "validator": "^13.1.17",
     "xc-core-ts": "^0.1.0",
     "xlsx": "^0.18.5"
