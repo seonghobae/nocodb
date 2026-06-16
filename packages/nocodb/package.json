@@ -76,7 +76,7 @@
     "auto-bind": "^4.0.0",
     "aws-kcl": "^2.2.2",
     "aws-sdk": "^2.1455.0",
-    "axios": "^1.6.2",
+    "axios": "^0.32.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.2",
     "boxen": "^5.1.2",
@@ -169,7 +169,7 @@
     "tinycolor2": "^1.4.2",
     "twilio": "^3.55.1",
     "unique-names-generator": "^4.7.1",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "validator": "^13.1.17",
     "xc-core-ts": "^0.1.0",
     "xlsx": "^0.18.5"
